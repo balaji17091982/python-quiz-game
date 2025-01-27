@@ -25,17 +25,17 @@ This is a text-based quiz game implemented in Python using the `curses` library.
 ## Installation
 1. Clone or download this repository to your local machine.
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/python-quiz-game.git
 2. Navigate to the project folder.
 
-    ```bash
+    ```
     cd python-quiz-game
 ## Running the Game
 1. Open a terminal in the project folder.
 2. Run the game using Python:
 
-    ```bash
+    ```
     python quiz_game.py
 - Use the arrow keys to navigate.
 - Answer questions by typing your response and pressing Enter.
@@ -51,7 +51,7 @@ This is a text-based quiz game implemented in Python using the `curses` library.
 ## Example
 ### Level 1: Two-Digit Addition
 
-    ```bash
+    ```
     +----------------------------------------+
     | Level: 1                               |
     | Score: 3                               |
@@ -66,7 +66,7 @@ This is a text-based quiz game implemented in Python using the `curses` library.
 
 ### Level 2: Three-Digit Addition
 
-    ```bash
+    ```
     +----------------------------------------+
     | Level: 2                               |
     | Score: 5                               |
